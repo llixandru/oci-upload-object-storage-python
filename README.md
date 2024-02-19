@@ -1,4 +1,4 @@
-# Flask App with Gunicorn
+# Upload images to OCI Object storage with a Flask App with Gunicorn
 
 This is a Flask app that can be run using Gunicorn. It exposes three endpoints for uploading, downloading and deleting images from a bucket in OCI Object Storage.
 
